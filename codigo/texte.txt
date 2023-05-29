@@ -1,3 +1,5 @@
 1.texte
 
-hahahahahahaha atumalaca
+git add .
+git commit -m "texte.txt"
+git push
